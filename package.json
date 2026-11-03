@@ -1,0 +1,6 @@
+{
+  "name": "km-climate-card",
+  "version": "1.0.0",
+  "description": "Custom Lovelace climate card for Home Assistant",
+  "license": "MIT"
+}
